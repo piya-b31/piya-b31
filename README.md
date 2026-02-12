@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am a 3rd year BCA student with a strong interest in Data Analytics, Machine Learning, and Web-based applications.<br><br>I have hands-on experience working with Python, SQL, and data visualization tools to solve real-world problems. I enjoy transforming raw data into actionable insights and deploying ML models through interactive web applications.<br><br>Currently, I am enhancing my skills in Advanced SQL, Machine Learning, Artificial Intelligence, Model Deployment, and NLP.<br><br>My goal is to work in a data-driven environment where I can contribute through analytical thinking and technical expertise.
+🎓 I am a 3rd year BCA student with a strong interest in Data Analytics, Machine Learning, and Web-based applications.<br><br>📊 I have hands-on experience working with Python, SQL, and data visualization tools to solve real-world problems. I enjoy transforming raw data into actionable insights and deploying ML models through interactive web applications.<br><br>🧠 Currently, I am enhancing my skills in Advanced SQL, Machine Learning, Artificial Intelligence, Model Deployment, and NLP.<br><br>📈 My goal is to work in a data-driven environment where I can contribute through analytical thinking and technical expertise.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piya-bharwani-9888a3305) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyabharwani.31@gmail.com) 
 
 # 💻 Tech Stack:
